@@ -1,4 +1,4 @@
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1700092800&v=beta&t=0C2BMP_sLC6y_Vh3PubJ2wm2nHppCvoj7fz1aGqzttU)
 <h1 align="center">Hi 👋, I'm Asif Raza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt=""/>
