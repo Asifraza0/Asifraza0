@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifraza0&label=Profile%20views&color=0e75b6&style=flat" alt="asifraza0" /> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **Asp .Net Web Forms , Web Api and Core(MVC)**
 
 - 🌱 I’m currently learning **Frameworks**
 
